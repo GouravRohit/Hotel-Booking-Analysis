@@ -1,6 +1,6 @@
 # OYO-Hotel-Booking-Analysis
 
-<img width="1280" height="719" alt="Image" src="https://github.com/user-attachments/assets/49c3b4af-e144-4ecd-b4b2-38dcdbb43a4d" />
+<img width="900" height="300" alt="Image" src="https://github.com/user-attachments/assets/e1b0694c-61a8-4971-a8e4-d0c090f651e7" />
 
 ## Objective and Analysis
 I carried out an Exploratory Data Analysis (EDA) on a hotel booking dataset comprising two categories: Resort Hotel and City Hotel. To improve the dataset’s usability and enhance user interaction, I performed feature engineering by modifying and transforming specific variables. For example, the 'Is Canceled' field was restructured into a categorical format (Yes/No) to make it more intuitive. I also separated the date into distinct components- day, month, and year- enabling time-based filtering and analysis.
