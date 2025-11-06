@@ -22,3 +22,9 @@ Financial and channel information (adr, deposit_type, distribution_channel)
 
 ## Conclusion
 This project provides valuable insights into hotel customer behavior, preferences, and operational factors. It helps stakeholders make informed decisions to improve service quality, increase revenue, and optimize bookings.
+
+## Insights
+
+• Analyzed 100k+ records using Python to uncover booking patterns, revenue trends, and customer behaviors. Employed pandas, matplotlib, and seaborn for data aggregation and visualization, boosting data visibility for targeted marketing campaigns.
+• Discovered a surge in bookings in 2016 and peak revenue in 2017; identified transient customers as yielding the highest daily earnings and contract customers as generating maximum revenue; tackled high booking cancellation ratios with proposed mitigation strategies.
+• Designed metrics to pinpoint key factors influencing booking cancellations, delivering actionable insights to enhance customer retention and reduce cancellations.
